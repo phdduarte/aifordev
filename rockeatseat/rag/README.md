@@ -19,3 +19,11 @@ RAG é particularmente útil em cenários onde é necessário acessar informaç�
  - OpenAI com o GPTs
 
 ![Rag Arc](../../assets/rag.jpg)
+
+### Libs
+
+#### LangChain
+A **LangChain** é uma framework para desenvolver aplicações que utilizam modelos de linguagem de forma estruturada. Ela facilita a criação de pipelines complexos, combinando múltiplos passos de processamento, agentes para decisões dinâmicas, integração com fontes de dados externas, e suporte para manter contexto em conversas. É útil para criar sistemas interativos e personalizados, com ferramentas para debug e monitoramento.
+
+#### LlamaIndex
+A **LlamaIndex** é uma biblioteca que facilita a integração de grandes modelos de linguagem com fontes de dados externas. Ela permite criar índices personalizados para acessar dados de forma eficiente, otimizando consultas e respostas geradas por esses modelos. É útil para aplicações que precisam lidar com grandes volumes de dados e querem melhorar a interação com modelos de IA.
