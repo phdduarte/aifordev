@@ -1,0 +1,17 @@
+[
+  {
+      "uid": "233",
+      "texto": "Atenção: As questões de números 1 a 20 referem-se ao texto que segue...",
+      "enunciado": "Atente para as seguintes afirmações:\n\nI. Às escandalosas práticas dos canalhas deve corresponder uma reação objetiva, que tenha envergadura social e peso político.\nII. Os homens de virtude não confrontam o que é justo e o que é injusto porque sabem relativizar o valor do bem e do mal.\nIII. Do quarto parágrafo depreende-se que certas frases do senso comum induzem à complacência com as ações mais nefastas.\n\nEm relação ao texto, está correto o que se afirma em",
+      "a": "I e II, somente.",
+      "b": "I e III, somente.",
+      "c": "II e III, somente.",
+      "d": "III, somente.",
+      "e": "I, II e III.",
+      "area_conhecimento": "Letras",
+      "disciplina": "Português",
+      "cargo": "Analista Judiciário - Área Administrativa",
+      "assunto_pai": "Interpretação de Textos",
+      "assunto_filho": ["Noções Gerais de Compreensão e Interpretação de Texto"]
+  }
+]

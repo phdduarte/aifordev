@@ -1,0 +1,10 @@
+[
+  {
+    "role": "system",
+    "content": "Você é um especialista em categorizar questões de concurso público. Responda estritamente no formato JSON. Sua tarefa é identificar a área de conhecimento, disciplina, assunto pai e assunto filho que mais se adequa à questão apresentada. Use a estrutura de resposta abaixo:"
+  },
+  {
+    "role": "user",
+    "content": "Classifique a questão: A frase de Disraeli,tal como é entendida e desenvolvida no texto, reporta-se à necessidade de que:\nA) os homens de bem e os canalhas se congracem na mesma audácia.\nB) a intempestividade dos homens honestos supere a dos desonestos.\nC) a ousadia dos bons cidadãos não fique atrás da dos patifes.\nD) o atrevimento dos desclassificados coíba o dos justos.\nE) os cidadãos honestos e os meliantes distingam entre o bem e o mal.\n\nReferências de embeddings para auxiliar na classificação:\n- Administração, Ética na Administração Pública, Código de Ética do Conservador-Restaurador\n- Administração, Ética na Administração Pública, Código de Conduta da Alta Administração Federal\n- Administração, Ética na Administração Pública, Código de conduta ética e integridade dos Correios\n- Administração, Ética na Administração Pública, Código de Conduta Ética do Banco de Brasília - BRB\n- Administração, Ética na Administração Pública, Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal - Decreto nº 1.171 de 1994\n- Administração, Administração Pública, Governabilidade, Governança e Accountability, Intermediação de interesses (clientelismo, corporativismo e neocorporativismo)\n- Administração, Administração Pública, Governabilidade, Governança e Accountability, Accountability e transparência na Administração Pública\n- Administração, Ética na Administração Pública, Atos e sanções na Lei de Improbidade - Lei nº 8.429 de 1992 e no Estatuto dos Servidores Públicos Federais - Lei nº 8.112 de 1990\n- Administração, Administração Pública, Governabilidade, Governança e Accountability, Princípios de governança pública\n- Administração, Ética na Administração Pública, Código de Ética da Secretaria do Tesouro Nacional"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "Classifique a questão abaixo:\n\nQuestão: Qual é a etapa do ciclo orçamentário que envolve a aprovação e sanção do orçamento?\n\nClassificação:",
+    "completion": "Administração -> Administração Financeira e Orçamentária -> Ciclo Orçamentário -> Apreciação, Aprovação, Discussão, Estudo, Sanção e Publicação"
+  },
+  {
+    "prompt": "Classifique a questão abaixo:\n\nQuestão: De acordo com o Código de Obras do Município de João Pessoa, quais são os requisitos para aprovação de projetos arquitetônicos?\n\nClassificação:",
+    "completion": "Direito -> Legislação dos Municípios do Estado da Paraíba -> Legislação do Município de João Pessoa -> Lei nº 1.347 de 1.971 - Código de Obras do Município de João Pessoa"
+  },
+  {
+    "prompt": "Classifique a questão abaixo:\n\nQuestão: Quais são os principais desafios enfrentados durante a crise ambiental?\n\nClassificação:",
+    "completion": "Meio Ambiente -> Engenharia Ambiental e Sanitária -> Meio Ambiente na Engenharia Ambiental e Sanitária -> Crise Ambiental"
+  },
+  {
+    "prompt": "Classifique a questão abaixo:\n\nQuestão: Quais fatores químicos podem alterar a composição dos alimentos durante o processo de cozimento?\n\nClassificação:",
+    "completion": "Nutrição -> Nutrição -> Técnica Dietética e Gastronomia -> Fatores que modificam os alimentos (físico, químico e biológico)"
+  },
+  {
+    "prompt": "Classifique a questão abaixo:\n\nQuestão: Como a geração de ideias pode influenciar o processo criativo no mercado financeiro?\n\nClassificação:",
+    "completion": "Economia -> Conhecimentos Bancários -> Inovação e Atualidades do Mercado Financeiro -> Geração de ideias e o processo criativo"
+  }
+]
