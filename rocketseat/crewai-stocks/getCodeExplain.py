@@ -7,7 +7,7 @@ load_dotenv()
 client = OpenAI(
   organization=os.getenv('OPENAI_ORG'),
   project=os.getenv('OPENAI_PROJECT'),
-  api_key=os.getenv('OPENAI_API_KEY')
+  api_key=os.getenv('Q_API_KEY')
 )
 
 # stream = client.chat.completions.create(
@@ -34,7 +34,7 @@ load_dotenv()
 client = OpenAI(
   organization=os.getenv('OPENAI_ORG'),
   project=os.getenv('OPENAI_PROJECT'),
-  api_key=os.getenv('OPENAI_API_KEY')
+  api_key=os.getenv('Q_API_KEY')
 )
 
 stream = client.chat.completions.create(
