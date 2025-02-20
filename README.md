@@ -18,9 +18,21 @@ python3 -m venv ~/myenv
 
 Após criar o ambiente virtual, você precisa ativá-lo para que os pacotes instalados sejam associados a este ambiente e não ao Python global do sistema.
 
-```bash
+```sh
 source ~/myenv/bin/activate
 ```
+Verifique se o ambiente virtual foi ativado executando:
+
+```sh
+which python
+```
+
+O resultado deve ser algo como:
+
+```sh
+/Users/seu-usuario/myenv/bin/python
+```
+
 
 ### 3. Instalar Pacotes no Ambiente Virtual
 
