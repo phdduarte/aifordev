@@ -1,0 +1,28 @@
+{
+  "Ortografia": {
+    "AcentuacaoGrafica": {
+      "Paroxitonas": {
+        "TodasSaoAcentuadas": {
+          "Excecoes": {
+            "TerminadasEm": [
+              "R",
+              "ENS"
+            ],
+            "PrefixosParoxitonas": true
+          }
+        },
+        "NaoSaoAcentuados": {
+          "TerminadosEm": [
+            "a(s)",
+            "o(s)",
+            "e(s)"
+          ],
+          "Excecoes": {
+            "DitongoAberto": true,
+            "DitongoNasal": true
+          }
+        }
+      }
+    }
+  }
+}
